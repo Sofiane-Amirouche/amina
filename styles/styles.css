@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Julee&display=swap");
+
 h1,
 h2 {
   font-family: "Julee", cursive;
@@ -13,7 +14,8 @@ h2 {
   box-sizing: border-box;
 }
 body {
-  background-image: url(./img/01.jpg);
+  background-image: url(../img/01.jpg);
+  background-color: brown;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -44,7 +46,9 @@ body {
 img {
   border-radius: 80%;
   height: 30rem;
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   border: 10px solid rgb(102, 182, 214);
 }
+
+/* from here? */

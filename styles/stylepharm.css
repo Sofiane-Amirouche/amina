@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
   box-sizing: border-box;
 }
@@ -20,4 +21,19 @@
   .flex-container {
     flex-direction: column;
   }
+}
+p,
+li {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: blue;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: chocolate;
 }

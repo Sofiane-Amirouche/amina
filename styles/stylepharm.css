@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-
+body {
+  background-color: #b5ffff;
+}
 * {
   box-sizing: border-box;
 }
@@ -12,7 +14,7 @@
 }
 
 .flex-item-left {
-  background-color: #f1f1f1;
+  background-color: #80ffd5;
   padding: 10px;
   flex: 50%;
 }

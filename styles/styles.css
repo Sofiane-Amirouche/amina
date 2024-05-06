@@ -58,3 +58,11 @@ span {
   font-size: 25px;
   font-style: italic;
 }
+.counter {
+  color: rgb(132, 69, 204);
+  font-weight: bold;
+}
+.visitors {
+  text-align: center;
+  padding-top: 9rem;
+}

@@ -174,35 +174,3 @@ span {
   background-attachment: fixed;
   animation: square-animation 10s ease-in-out infinite both;
 }
-
-.loader-square:nth-of-type(0) {
-  animation-delay: 0s;
-}
-
-.loader-square:nth-of-type(1) {
-  animation-delay: -1.4285714286s;
-}
-
-.loader-square:nth-of-type(2) {
-  animation-delay: -2.8571428571s;
-}
-
-.loader-square:nth-of-type(3) {
-  animation-delay: -4.2857142857s;
-}
-
-.loader-square:nth-of-type(4) {
-  animation-delay: -5.7142857143s;
-}
-
-.loader-square:nth-of-type(5) {
-  animation-delay: -7.1428571429s;
-}
-
-.loader-square:nth-of-type(6) {
-  animation-delay: -8.5714285714s;
-}
-
-.loader-square:nth-of-type(7) {
-  animation-delay: -10s;
-}

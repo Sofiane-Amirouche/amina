@@ -45,12 +45,12 @@ p {
   text-indent: 50px;
   text-align: justify;
 }
-footer {
-  text-decoration: underline;
-  color: rgb(5, 0, 5);
-  padding-top: 10rem;
+.foot {
+  text-align: center;
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
+  color: rgba(1, 7, 2, 0.87);
+  padding-top: 10rem;
 }
 .list {
   padding-bottom: 15rem;
